@@ -1,5 +1,13 @@
 {
   "files.associations": {
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "vector": "cpp",
+    "__split_buffer": "cpp",
+    "array": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "__node_handle": "cpp",
+    "list": "cpp",
+    "unordered_map": "cpp"
   }
 }
